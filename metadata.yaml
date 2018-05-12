@@ -1,0 +1,27 @@
+_repo: On-the-uncertainty-of-the-signs-of-murder-in-the-case-of-bastard-children_26870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hunter, William
+    birthdate: 1718
+    deathdate: 1783
+    gutenberg_agent_id: '32294'
+    url: http://www.gutenberg.org/2009/agents/32294
+description: ''
+gutenberg_issued: '2008-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Infanticide'
+- !lcc 'HV'
+- !lcsh 'Illegitimacy'
+title: On the uncertainty of the signs of murder in the case of bastard children
+url: http://www.gutenberg.org/ebooks/26870
