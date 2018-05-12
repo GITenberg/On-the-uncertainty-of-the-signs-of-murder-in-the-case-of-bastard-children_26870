@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32294'
     url: http://www.gutenberg.org/2009/agents/32294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26870#On-the-uncertainty-of-the-signs-of-murder-in-the-case-of-bastard-children
 gutenberg_issued: '2008-10-11'
 gutenberg_type: Text
 identifiers:
